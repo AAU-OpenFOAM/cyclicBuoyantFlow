@@ -6,7 +6,7 @@ cyclicBuoyantFlow solves cases for buoyant, incompressible, turbulent flow.
 
 The solver is known to work using the following OpenFOAM versions:
 
-8, 9
+8, 9, 10
 
 Other versions are not supported directly. Let me know and I'll be happy to update it to a newer version.
 
